@@ -1,0 +1,2 @@
+female(noyalin).
+male(zimam).
